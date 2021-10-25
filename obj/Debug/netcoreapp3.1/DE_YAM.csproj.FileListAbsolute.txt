@@ -1,0 +1,14 @@
+C:\Users\mathi\source\repos\DE_YAM\bin\Debug\netcoreapp3.1\DE_YAM.exe
+C:\Users\mathi\source\repos\DE_YAM\bin\Debug\netcoreapp3.1\DE_YAM.deps.json
+C:\Users\mathi\source\repos\DE_YAM\bin\Debug\netcoreapp3.1\DE_YAM.runtimeconfig.json
+C:\Users\mathi\source\repos\DE_YAM\bin\Debug\netcoreapp3.1\DE_YAM.runtimeconfig.dev.json
+C:\Users\mathi\source\repos\DE_YAM\bin\Debug\netcoreapp3.1\DE_YAM.dll
+C:\Users\mathi\source\repos\DE_YAM\bin\Debug\netcoreapp3.1\DE_YAM.pdb
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.csproj.AssemblyReference.cache
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.AssemblyInfoInputs.cache
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.AssemblyInfo.cs
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.csproj.CoreCompileInputs.cache
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.dll
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.pdb
+C:\Users\mathi\source\repos\DE_YAM\obj\Debug\netcoreapp3.1\DE_YAM.genruntimeconfig.cache
